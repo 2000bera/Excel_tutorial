@@ -1,4 +1,9 @@
 # Excel_tutorial
-Collecting data, Cleaning data, Analyzing data and reporting data based on charts
-
-Data source - https://www.geonames.org/countries/
+Collecting data, 
+Cleaning data, 
+Analyzing data,
+Reporting data based on charts, and 
+Performing - XLOOKUP (HLOOKUP, VLOOKUP)
+           - Pivot Table
+           - Conditional formatting
+           - Power Query

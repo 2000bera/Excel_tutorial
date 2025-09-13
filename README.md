@@ -1,4 +1,4 @@
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/133bfae1-6eb5-4948-a934-0a49f45bc8ad" /> Core Skills & Data Analysis Techniques
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5ed65b10-ffda-46cc-aca0-7a0ef55926b5" /> Core Skills & Data Analysis Techniques
 
 
 This section outlines my expertise in the complete data lifecycle, from initial collection to analysis and reporting.

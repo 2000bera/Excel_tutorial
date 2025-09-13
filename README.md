@@ -1,17 +1,17 @@
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5ed65b10-ffda-46cc-aca0-7a0ef55926b5" /> Core Skills & Data Analysis Techniques
 
 
-This section outlines my expertise in the complete data lifecycle, from initial collection to analysis and reporting.
+- This section outlines my expertise in the complete data lifecycle, from initial collection to analysis and reporting.
 
 
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9d20e9dc-850b-415f-8fac-023524171433" /> End-to-End Data Workflow
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/e49c8c4b-6a2e-478a-8517-15ad65d403a6" /> End-to-End Data Workflow
 
 
-Data Collection: Proficient in gathering raw data from various sources to build a foundational dataset.
+- Data Collection: Proficient in gathering raw data from various sources to build a foundational dataset.
 
-Data Cleaning: Skilled in preprocessing and cleaning data to ensure accuracy, consistency, and readiness for analysis.
+- Data Cleaning: Skilled in preprocessing and cleaning data to ensure accuracy, consistency, and readiness for analysis.
 
-Data Reporting: Experienced in creating clear and impactful charts and visualizations to communicate findings effectively.
+- Data Reporting: Experienced in creating clear and impactful charts and visualizations to communicate findings effectively.
 
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/26780cf3-4554-4e0a-9701-d7c2fe060223" /> Tools

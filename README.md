@@ -1,7 +1,7 @@
 ## 🛠️ Core Skills & Data Analysis Techniques
 
 
-This section outlines my expertise in the complete data lifecycle, from initial collection to advanced analysis and reporting.
+This section outlines my expertise in the complete data lifecycle, from initial collection to analysis and reporting.
 
 
 ## End-to-End Data Workflow
@@ -11,18 +11,21 @@ Data Collection: Proficient in gathering raw data from various sources to build 
 
 Data Cleaning: Skilled in preprocessing and cleaning data to ensure accuracy, consistency, and readiness for analysis.
 
-Data Analysis: Capable of exploring datasets to uncover trends, identify patterns, and extract actionable insights.
-
 Data Reporting: Experienced in creating clear and impactful charts and visualizations to communicate findings effectively.
 
 
-## Technical Proficiencies
+## Tools
 
 
-Advanced Lookups: Expertise in using XLOOKUP, HLOOKUP, and VLOOKUP for complex data retrieval and merging across different tables.
+- Lookups: XLOOKUP, HLOOKUP, and VLOOKUP for complex data retrieval and merging across different tables.
 
-Pivot Tables: Able to summarize, group, and analyze large datasets to extract key metrics and insights.
+- Pivot Tables: Able to summarize, group, and analyze large datasets to extract key metrics and insights.
 
-Conditional Formatting: Using visual cues to highlight important data points, outliers, and trends for at-a-glance analysis.
+- Conditional Formatting: Using visual cues to highlight important data points, outliers, and trends for at-a-glance analysis.
 
-Power Query: Data cleaning and preparation process.
+- Power Query: Data cleaning and preparation process.
+
+## Challenges
+
+- Performing Lookups
+- Pivot Tables

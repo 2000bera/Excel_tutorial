@@ -14,7 +14,7 @@ Data Cleaning: Skilled in preprocessing and cleaning data to ensure accuracy, co
 Data Reporting: Experienced in creating clear and impactful charts and visualizations to communicate findings effectively.
 
 
-## Tools
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/26780cf3-4554-4e0a-9701-d7c2fe060223" />Tools
 
 
 - Lookups: XLOOKUP, HLOOKUP, and VLOOKUP for complex data retrieval and merging across different tables.

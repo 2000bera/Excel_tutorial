@@ -1,10 +1,10 @@
-## 🛠️ Core Skills & Data Analysis Techniques
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/133bfae1-6eb5-4948-a934-0a49f45bc8ad" /> Core Skills & Data Analysis Techniques
 
 
 This section outlines my expertise in the complete data lifecycle, from initial collection to analysis and reporting.
 
 
-## End-to-End Data Workflow
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9d20e9dc-850b-415f-8fac-023524171433" /> End-to-End Data Workflow
 
 
 Data Collection: Proficient in gathering raw data from various sources to build a foundational dataset.
@@ -14,7 +14,7 @@ Data Cleaning: Skilled in preprocessing and cleaning data to ensure accuracy, co
 Data Reporting: Experienced in creating clear and impactful charts and visualizations to communicate findings effectively.
 
 
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/26780cf3-4554-4e0a-9701-d7c2fe060223" />Tools
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/26780cf3-4554-4e0a-9701-d7c2fe060223" /> Tools
 
 
 - Lookups: XLOOKUP, HLOOKUP, and VLOOKUP for complex data retrieval and merging across different tables.
@@ -25,7 +25,7 @@ Data Reporting: Experienced in creating clear and impactful charts and visualiza
 
 - Power Query: Data cleaning and preparation process.
 
-## Challenges
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/da7636d4-5dca-450a-acb3-f4f827ee0822" /> Challenges
 
 - Performing Lookups
 - Pivot Tables
